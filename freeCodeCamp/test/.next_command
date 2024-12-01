@@ -132,3 +132,4 @@ pwd
 cd..
 cd ..
 pwd
+ls --color=auto
