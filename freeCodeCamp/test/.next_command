@@ -203,3 +203,4 @@ ls --color=auto
 rm imagess
 cp background.jpg images
 cd images
+ls --color=auto
