@@ -146,3 +146,4 @@ ls --color=auto
 more packege.json
 package.json
 more package.json
+clear
