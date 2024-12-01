@@ -254,3 +254,4 @@ __vsc_prompt_cmd_original
 cd images
 touch background.jpg
 cd ../../..
+cd images
