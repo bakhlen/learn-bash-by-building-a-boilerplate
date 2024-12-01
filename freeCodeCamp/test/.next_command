@@ -222,3 +222,4 @@ mv roboto.font roboto.woff
 ls --color=auto
 touch roboto.font
 mv roboto.font roboto.woff
+ls --color=auto
