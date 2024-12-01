@@ -202,3 +202,4 @@ cp background.jpg imagess
 ls --color=auto
 rm imagess
 cp background.jpg images
+cd images
