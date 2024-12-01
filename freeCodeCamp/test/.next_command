@@ -134,3 +134,5 @@ cd ..
 pwd
 ls --color=auto
 cd freeCodeCamp
+ls --color=auto
+pwd
