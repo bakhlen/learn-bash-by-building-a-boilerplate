@@ -128,3 +128,7 @@ ls --color=auto
 cd freeCodeCamp
 ls --color=auto
 echo hello terminal
+pwd
+cd..
+cd ..
+pwd
